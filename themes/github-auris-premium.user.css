@@ -1,0 +1,178 @@
+/* ==UserStyle==
+@name           Auris Nexus — GitHub Midnight
+@namespace      github.com/Jablo-cmd
+@version        1.0.0
+@description    Premium navy, cyan and signal-teal theme for GitHub.
+@author         Loyiso Ngcala
+==/UserStyle== */
+
+@-moz-document domain("github.com") {
+  :root,
+  [data-color-mode="dark"] {
+    color-scheme: dark !important;
+    --color-canvas-default: #0D1729 !important;
+    --color-canvas-overlay: #101D32 !important;
+    --color-canvas-inset: #091222 !important;
+    --color-canvas-subtle: #13233B !important;
+    --color-border-default: #263B56 !important;
+    --color-border-muted: #1D3049 !important;
+    --color-neutral-muted: #20354E !important;
+    --color-fg-default: #EAF2FC !important;
+    --color-fg-muted: #9FB2C9 !important;
+    --color-fg-subtle: #7F96B2 !important;
+    --color-accent-fg: #20C5D5 !important;
+    --color-accent-emphasis: #098FB4 !important;
+    --color-accent-muted: #123E5A !important;
+    --color-accent-subtle: #102B43 !important;
+    --color-btn-primary-bg: #098FB4 !important;
+    --color-btn-primary-hover-bg: #00A6B9 !important;
+    --color-btn-primary-text: #FFFFFF !important;
+    --color-success-fg: #00B3BF !important;
+  }
+
+  body,
+  .application-main,
+  .AppHeader,
+  .Header,
+  .footer,
+  .logged-in .header {
+    background-color: #0D1729 !important;
+    color: #EAF2FC !important;
+  }
+
+  .AppHeader,
+  .Header,
+  .UnderlineNav,
+  .BorderGrid-row,
+  .Box,
+  .Box-header,
+  .Box-row,
+  .markdown-body table tr,
+  .discussion-timeline-actions,
+  .repository-content .border,
+  .file-header,
+  .file-navigation,
+  .react-code-view,
+  .blob-wrapper,
+  .commit-tease,
+  .timeline-comment,
+  .js-comment-container,
+  .comment,
+  .Popover,
+  .SelectMenu,
+  .dropdown-menu,
+  .modal,
+  .flash,
+  .discussion-sidebar-item {
+    border-color: #263B56 !important;
+  }
+
+  .Box,
+  .Box-header,
+  .Box-row,
+  .file-header,
+  .file-navigation,
+  .commit-tease,
+  .timeline-comment,
+  .comment,
+  .Popover,
+  .SelectMenu,
+  .dropdown-menu,
+  .modal,
+  .flash,
+  .discussion-sidebar-item,
+  .markdown-body table tr:nth-child(2n) {
+    background-color: #101D32 !important;
+  }
+
+  a,
+  .Link--primary,
+  .markdown-body a,
+  .tabnav-tab,
+  .UnderlineNav-item {
+    color: #20C5D5 !important;
+  }
+
+  a:hover,
+  .Link--primary:hover,
+  .markdown-body a:hover,
+  .UnderlineNav-item:hover {
+    color: #72E7EA !important;
+  }
+
+  .btn,
+  .btn:hover,
+  .form-control,
+  .form-select,
+  input,
+  textarea,
+  select,
+  .input-contrast {
+    border-color: #2C4765 !important;
+  }
+
+  .btn,
+  .form-control,
+  .form-select,
+  input,
+  textarea,
+  select,
+  .input-contrast {
+    background-color: #13233B !important;
+    color: #EAF2FC !important;
+  }
+
+  .btn-primary,
+  .btn-primary:hover,
+  .Button--primary,
+  .Button--primary:hover {
+    background: #098FB4 !important;
+    border-color: #098FB4 !important;
+    color: #FFFFFF !important;
+  }
+
+  .btn-primary:hover,
+  .Button--primary:hover {
+    background: #00A6B9 !important;
+    box-shadow: 0 0 0 3px #00B3BF25 !important;
+  }
+
+  .Header,
+  .AppHeader,
+  .UnderlineNav,
+  .gh-header,
+  .pagehead {
+    box-shadow: 0 1px 0 #263B56 !important;
+  }
+
+  .markdown-body pre,
+  .highlight pre,
+  .blob-code,
+  .blob-num,
+  .react-code-view,
+  .code-view,
+  .CodeMirror,
+  .cm-editor {
+    background-color: #091222 !important;
+  }
+
+  .markdown-body blockquote {
+    border-left-color: #00B3BF !important;
+    color: #B6C8DC !important;
+  }
+
+  .Label,
+  .label,
+  .IssueLabel {
+    border-color: #098FB455 !important;
+  }
+
+  ::selection {
+    background: #098FB477 !important;
+    color: #FFFFFF !important;
+  }
+
+  :focus-visible {
+    outline-color: #00B3BF !important;
+  }
+}
