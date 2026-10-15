@@ -26,10 +26,16 @@ I’m a self-directed software builder and the founder of **Auris Nexus Technolo
 ## Technology
 
 <p>
+  <img alt="C#" src="https://img.shields.io/badge/C%23-001A48?style=flat-square&logo=csharp&logoColor=00B3BF" />
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-001A48?style=flat-square&logo=rust&logoColor=00B3BF" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-001A48?style=flat-square&logo=typescript&logoColor=00B3BF" />
   <img alt="React" src="https://img.shields.io/badge/React-001A48?style=flat-square&logo=react&logoColor=00B3BF" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-001A48?style=flat-square&logo=nextdotjs&logoColor=00B3BF" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-001A48?style=flat-square&logo=nodedotjs&logoColor=00B3BF" />
   <img alt="Vite" src="https://img.shields.io/badge/Vite-001A48?style=flat-square&logo=vite&logoColor=00B3BF" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-001A48?style=flat-square&logo=tailwindcss&logoColor=00B3BF" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-001A48?style=flat-square&logo=databricks&logoColor=00B3BF" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-001A48?style=flat-square&logo=mysql&logoColor=00B3BF" />
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-001A48?style=flat-square&logo=supabase&logoColor=00B3BF" />
   <img alt="Deno" src="https://img.shields.io/badge/Deno-001A48?style=flat-square&logo=deno&logoColor=00B3BF" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-001A48?style=flat-square&logo=github&logoColor=00B3BF" />
